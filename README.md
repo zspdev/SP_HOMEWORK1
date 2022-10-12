@@ -20,7 +20,7 @@ CODE : **e1-e2.sh** file
 
 OUTPUT:
 
-![image info](./screenshots/e1-e2.png)
+![image info](./screenshots/e1-e2.PNG)
 
 E3:  write a shell script that prompts the user for a name of a file or directory and
 reports if it is a regular file, a directory, or another type of file. Also perform an
@@ -30,7 +30,7 @@ CODE : **e3.sh** file
 
 OUTPUT:
 
-![image info](./screenshots/e3.png)
+![image info](./screenshots/e3.PNG)
 
 E4:  Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it.
 
@@ -38,7 +38,7 @@ CODE : **e4.sh** file
 
 OUTPUT:
 
-![image info](./screenshots/e4.png)
+![image info](./screenshots/e4.PNG)
 
 E5:  Write a shell script that consists of a function that displays the number of files in
 the present working directory. Name this function filecounter and call it in
@@ -49,4 +49,4 @@ CODE : **e5.sh** file
 
 OUTPUT:
 
-![image info](./screenshots/e5.png)
+![image info](./screenshots/e5.PNG)
